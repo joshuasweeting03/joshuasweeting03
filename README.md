@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuasweeting03
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email: joshuasweeting03@gmail.com
 
